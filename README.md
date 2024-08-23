@@ -39,7 +39,7 @@ The **Share Your DFM Live** Discord server is the premier destination for FaceSw
 ### Download
 
 - **Latest Version (v1.0.1):**  
-  Download: `https://drive.google.com/file/d/1Vebs1jNNvgpLtk2UPe8ASqNqkoKScqtO/view?usp=drivesdk`
+  Download: https://drive.google.com/file/d/1Vebs1jNNvgpLtk2UPe8ASqNqkoKScqtO/view?usp=drivesdk
 
 ### Installation Notes
 
