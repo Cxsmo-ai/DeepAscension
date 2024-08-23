@@ -1,4 +1,4 @@
-## Join the Ultimate FaceSwap and AI VFX Hub!
+I## Join the Ultimate FaceSwap and AI VFX Hub!
 
 The **Share Your DFM Live** Discord server is the premier destination for FaceSwap and AI VFX enthusiasts. It features the best occlusion DST faceset, top-tier models, and expertly crafted XSeg models. Additionally, it boasts the largest DFM collection on Discord. Whether you're a beginner or a seasoned pro, you'll find invaluable resources and a supportive community here.
 
@@ -84,14 +84,14 @@ We are starting a new development team to continue the DeepAscension development
 
 ## Videos Mentioned In
 
-1. [Video 1](https://youtu.be/tEGown-ySfI)  
-   [![Video 1](https://img.youtube.com/vi/tEGown-ySfI/0.jpg)](https://youtu.be/tEGown-ySfI)
+1. [Video 1](https://youtu.be/tEGown-ySfI)
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/tEGown-ySfI" frameborder="0" allowfullscreen></iframe>
 
-2. [Video 2](https://youtu.be/w0Wkhz4G6OA)  
-   [![Video 2](https://img.youtube.com/vi/w0Wkhz4G6OA/0.jpg)](https://youtu.be/w0Wkhz4G6OA)
+2. [Video 2](https://youtu.be/w0Wkhz4G6OA)
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/w0Wkhz4G6OA" frameborder="0" allowfullscreen></iframe>
 
-3. [Video 3](https://youtu.be/7YiM_elQuPA)  
-   [![Video 3](https://img.youtube.com/vi/7YiM_elQuPA/0.jpg)](https://youtu.be/7YiM_elQuPA)
+3. [Video 3](https://youtu.be/7YiM_elQuPA)
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/7YiM_elQuPA" frameborder="0" allowfullscreen></iframe>
 
 ## Paid Model Commissions/Training
 
