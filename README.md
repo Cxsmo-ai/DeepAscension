@@ -84,14 +84,20 @@ We are starting a new development team to continue the DeepAscension development
 
 ## Videos Mentioned In
 
-1. [Video 1](https://youtu.be/tEGown-ySfI)
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/tEGown-ySfI" frameborder="0" allowfullscreen></iframe>
+1. [Video 1](https://youtu.be/tEGown-ySfI)  
+   <a href="https://www.youtube.com/watch?v=tEGown-ySfI" target="_blank">
+   <img src="https://img.youtube.com/vi/tEGown-ySfI/0.jpg" alt="Video 1" width="560" height="315" />
+   </a>
 
-2. [Video 2](https://youtu.be/w0Wkhz4G6OA)
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/w0Wkhz4G6OA" frameborder="0" allowfullscreen></iframe>
+2. [Video 2](https://youtu.be/w0Wkhz4G6OA)  
+   <a href="https://www.youtube.com/watch?v=w0Wkhz4G6OA" target="_blank">
+   <img src="https://img.youtube.com/vi/w0Wkhz4G6OA/0.jpg" alt="Video 2" width="560" height="315" />
+   </a>
 
-3. [Video 3](https://youtu.be/7YiM_elQuPA)
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/7YiM_elQuPA" frameborder="0" allowfullscreen></iframe>
+3. [Video 3](https://youtu.be/7YiM_elQuPA)  
+   <a href="https://www.youtube.com/watch?v=7YiM_elQuPA" target="_blank">
+   <img src="https://img.youtube.com/vi/7YiM_elQuPA/0.jpg" alt="Video 3" width="560" height="315" />
+   </a>
 
 ## Paid Model Commissions/Training
 
