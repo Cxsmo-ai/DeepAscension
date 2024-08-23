@@ -1,7 +1,3 @@
-Here's a revised version with a more professional tone:
-
----
-
 ## Join the Ultimate FaceSwap and AI VFX Hub!
 
 The **Share Your DFM Live** Discord server is the premier destination for FaceSwap and AI VFX enthusiasts. It features the best occlusion DST faceset, top-tier models, and expertly crafted XSeg models. Additionally, it boasts the largest DFM collection on Discord. Whether you're a beginner or a seasoned pro, you'll find invaluable resources and a supportive community here.
@@ -9,9 +5,13 @@ The **Share Your DFM Live** Discord server is the premier destination for FaceSw
 - **Discord:** [Share Your DFM Live](https://discord.gg/njSKPUQtFa)
   ![Discord Server](https://img.shields.io/badge/Discord-Share_Your_DFM_Live-blue?logo=discord&logoColor=white)
 
-If you appreciate the content and resources provided, and wish to contribute further, I invite you to support the server through my [Throne Wishlist](https://throne.com/cxsmo). Your generosity will help us continue delivering the best in FaceSwap and AI VFX tools and support.
+If you appreciate the content and resources provided, and wish to contribute further, I invite you to support the server through my **Throne Wishlist**:
 
----
+[![Throne Wishlist](https://img.shields.io/badge/Support-Throne_Wishlist-blue?logo=github&logoColor=white)](https://throne.com/cxsmo)
+
+Your generosity will help us continue delivering the best in FaceSwap and AI VFX tools and support.
+
+--- 
 
 ## DeepAscension
 
