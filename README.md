@@ -69,9 +69,7 @@ We are starting a new development team to continue the DeepAscension development
 
 ## Socials/Accounts
 
-- **YouTube:** [Cxsmo_ai](https://youtube.com/Cxsmo_ai)  
-  ![YouTube Channel](https://img.shields.io/badge/YouTube-Cxsmo_ai-red?logo=youtube&logoColor=white)
-  
+
 - **TikTok:** [Cxsmo_ai](https://tiktok.com/@Cxsmo_ai)  
   ![TikTok Profile](https://img.shields.io/badge/TikTok-Cxsmo_ai-black?logo=tiktok&logoColor=white)
 
